@@ -34,3 +34,6 @@ babel-plugin-transform-object-rest-spread: allows spread operator.
 }
 ```
 
+### Other packages
+
+faker: fakes usernames, passwords and names.
